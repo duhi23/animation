@@ -34,5 +34,7 @@ rab('animation', install = TRUE)
 ## Contact
 
 Bugs and feature requests can be filed to
-<https://github.com/yihui/animation/issues>. Pull requests are also welcome.
+<https://github.com/yihui/animation/issues>. 
+
+Pull requests are also welcome.
 
